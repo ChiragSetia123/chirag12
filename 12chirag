@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment</title>
+</head>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@325&display=swap');
+
+    * {
+        margin: 0px 0px;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Bitter', serif;
+    }
+
+    body {
+        margin: 50px 50px;
+        background-color: black;
+        color: white;
+    }
+
+    h1 {
+        color: cyan;
+    }
+
+    p {
+        padding: 15px;
+    }
+
+    button {
+        background-color: blue;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+</style>
+
+<body>
+    <div style="margin: 0px 20%;">
+        <h1 style="padding: 40px; text-align: center;">Question 1</h1>
+
+        <p style="text-align: right; padding: 15px;">
+            Name:chirah setia <br>
+            Roll no: 2006168 <br>
+        </p>
+
+        <hr>
+
+        <p style="padding: 15px;">
+
+        <h1which is the best game</h1> <br>
+        <h4>
+         answer as subjective as the question ,god of war
+        </h4>
+        </p>
+
+        <hr>
+
+        <p style="padding: 15px;">
+
+        <h1>best thing in the game</h1> <br>
+    ultra graphics
+        </p>
+
+        <hr>
+
+        <p class="Big" style="padding: 15px;">
+
+        <h1>things to work on</h1> <br>
+  number of bosses in the game
+        </p>
+
+        <hr>
+
+        <div>
+            <div style="text-align: center; padding: 15px;">
+                <a href="https://github.com/chirag12/Week3-Ques1">
+                    <button>
+                        View Code
+                    </button>
+                </a>
+            </div>
+
+            <div style="text-align: right; padding: 15px 50px;">
+                <a href="">
+                    <button style="background-color: rgb(122, 124, 124);">
+                        Previous
+                    </button>
+                </a>
+                <a href="https://chirag12.github.io/Week3-Ques2/">
+                    <button style="margin-left: 20px;">
+                        Next
+                    </button>
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
