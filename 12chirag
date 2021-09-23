@@ -57,7 +57,7 @@
 
         <p style="padding: 15px;">
 
-        <h1which is the best game</h1> <br>
+        <h1>which is the best game</h1> <br>
         <h4>
          answer as subjective as the question ,god of war
         </h4>
@@ -83,25 +83,14 @@
 
         <div>
             <div style="text-align: center; padding: 15px;">
-                <a href="https://github.com/chirag12/Week3-Ques1">
+                <a href="https://github.com/ChiragSetia123/chirag12">
                     <button>
                         View Code
                     </button>
                 </a>
             </div>
 
-            <div style="text-align: right; padding: 15px 50px;">
-                <a href="">
-                    <button style="background-color: rgb(122, 124, 124);">
-                        Previous
-                    </button>
-                </a>
-                <a href="https://chirag12.github.io/Week3-Ques2/">
-                    <button style="margin-left: 20px;">
-                        Next
-                    </button>
-                </a>
-            </div>
+           
         </div>
 
     </div>
